@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950968690568",
+    "firebase_url": "https://rentcar-79ceb.firebaseio.com",
+    "project_id": "rentcar-79ceb",
+    "storage_bucket": "rentcar-79ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950968690568:android:b0d8481e4c6f25e9",
+        "android_client_info": {
+          "package_name": "com.example.mirza.rentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950968690568-pj0t9btv8mo07aa3uuunbek2pl365rkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirza.rentcar",
+            "certificate_hash": "258b7edc2528c772b011e33bc42c584e864ba0f7"
+          }
+        },
+        {
+          "client_id": "950968690568-ntclv025m7n2ku5o6ubej6v0sp098f2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt17vhMDgNRa4gLYi2Pk9YtDXJeEaH8JM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950968690568-ntclv025m7n2ku5o6ubej6v0sp098f2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
